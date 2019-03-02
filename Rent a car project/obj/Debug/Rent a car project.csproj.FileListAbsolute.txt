@@ -1,0 +1,10 @@
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\bin\Debug\Rent a car project.exe.config
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\bin\Debug\Rent a car project.exe
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\bin\Debug\Rent a car project.pdb
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\obj\Debug\Rent a car project.csprojAssemblyReference.cache
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\obj\Debug\Rent_a_car_project.Form1.resources
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\obj\Debug\Rent_a_car_project.Properties.Resources.resources
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\obj\Debug\Rent a car project.csproj.GenerateResource.cache
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\obj\Debug\Rent a car project.csproj.CoreCompileInputs.cache
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\obj\Debug\Rent a car project.exe
+c:\users\berk-\source\repos\Rent a car project\Rent a car project\obj\Debug\Rent a car project.pdb
